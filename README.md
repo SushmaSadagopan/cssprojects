@@ -1,2 +1,0 @@
-# cssprojects
-CSS Project
